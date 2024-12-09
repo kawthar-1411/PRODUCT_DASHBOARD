@@ -1,2 +1,2 @@
 ## MY DASHBOARD FROM DATA IN EXCEL SHEET
-<img src=       width="500">
+<img src=https://github.com/kawthar-1411/PRODUCT_DASHBOARD/blob/main/%D9%84%D9%82%D8%B7%D8%A9%20%D8%B4%D8%A7%D8%B4%D8%A9%202024-12-09%20103400.png width="500">
